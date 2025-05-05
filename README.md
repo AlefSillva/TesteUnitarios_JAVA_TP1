@@ -23,15 +23,10 @@ O objetivo principal é aplicar boas práticas de testes unitários, como:
 ## 📁 Estrutura do projeto
 
 📦 src
-┣ 📂 main
-┃ ┗ 📂 java
-┃ ┗ 📂 praticandotestes
+┣ 📂 praticandotestes
 ┃ ┗ 📜 ScientificCalculator.java
 ┣ 📂 test
-┃ ┗ 📂 java
-┃ ┗ 📂 praticandotestes
-┃ ┗ 📜 ScientificCalculatorTest.java
-
+  ┗ 📜 ScientificCalculatorTest.java
 
 ---
 
